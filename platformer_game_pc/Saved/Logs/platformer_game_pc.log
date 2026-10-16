@@ -1956,3 +1956,1233 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.16-05.00.33:616][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.16-05.00.33:616][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3481.255127, Update Interval: 334.935760
 [2026.10.16-05.04.28:740][624]LogDerivedDataCache: C:/Users/game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.10.16-05.07.04:330][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3871.973633
+[2026.10.16-05.07.05:331][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.07.05:331][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3872.640625, Update Interval: 317.444977
+[2026.10.16-05.07.31:564][791]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.10.16-05.07.31:572][791]LogContentBrowser: Creating deferred item: NewWorld
+[2026.10.16-05.07.31:586][792]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.10.16-05.07.35:842][168]LogContentBrowser: Attempting asset rename: NewWorld -> Lobby
+[2026.10.16-05.07.35:842][168]LogChaosDD: Creating Chaos Debug Draw Scene for world Lobby
+[2026.10.16-05.07.35:845][168]LogContentBrowser: End creating deferred item NewWorld
+[2026.10.16-05.07.39:289][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.10.16-05.07.40:991][451]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.10.16-05.07.40:997][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.07.41:051][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.16-05.07.41:066][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.16-05.07.41:074][451]LogSavePackage: Moving output files for package: /Game/Maps/Lobby
+[2026.10.16-05.07.41:074][451]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Lobby095978574471815681EF36B689CE0D24.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/Lobby.umap'
+[2026.10.16-05.07.41:077][451]LogFileHelpers: Saving map 'Lobby' took 0.027
+[2026.10.16-05.07.41:078][451]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.10.16-05.07.41:078][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2026.10.16-05.07.41:102][451]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacter
+[2026.10.16-05.07.41:102][451]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_PlayerCharacter0B1FD61741CA11635DAF32AF9D8E5548.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2026.10.16-05.07.41:150][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.535 ms (total: 506.037 ms)
+[2026.10.16-05.07.41:150][451]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Lobby.Lobby
+[2026.10.16-05.07.41:150][451]Cmd: MAP LOAD FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.16-05.07.41:195][451]LogWorld: UWorld::CleanupWorld for Stage01, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.07.41:196][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.07.41:211][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.07.41:214][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.16-05.07.41:215][451]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.07.41:216][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.07.41:232][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.16-05.07.41:251][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.16-05.07.41:252][451]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.16-05.07.41:253][451]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2026.10.16-05.07.41:253][451]LogChaosDD: Creating Chaos Debug Draw Scene for world Lobby
+[2026.10.16-05.07.41:274][451]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.16-05.07.41:294][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.10.16-05.07.41:300][451]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.16-05.07.41:300][451]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.044ms.
+[2026.10.16-05.07.41:351][451]LogContentValidation: Display: Starting to validate 2 assets
+[2026.10.16-05.07.41:351][451]LogContentValidation: Enabled validators:
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.07.41:351][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.07.41:351][451]AssetCheck: /Game/Maps/Lobby 에셋 유효성 검사 중
+[2026.10.16-05.07.41:351][451]AssetCheck: /Game/Blueprints/Player/BP_PlayerCharacter 에셋 유효성 검사 중
+[2026.10.16-05.07.41:381][451]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.07.41:382][451]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.07.41:404][453]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.07.47:314][995]LogContentBrowser: Attempting asset rename: Lobby -> LobbyMap
+[2026.10.16-05.07.47:414][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.07.47:414][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LobbyMap" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/LobbyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.16-05.07.47:455][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.16-05.07.47:463][995]LogSavePackage: Moving output files for package: /Game/Maps/LobbyMap
+[2026.10.16-05.07.47:463][995]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/LobbyMap925AD5A2461827F139B47C926B1027CF.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/LobbyMap.umap'
+[2026.10.16-05.07.47:471][995]LogFileHelpers: Saving map 'LobbyMap' took 0.058
+[2026.10.16-05.07.47:471][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.687 ms (total: 563.725 ms)
+[2026.10.16-05.07.47:498][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.16-05.07.47:517][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.16-05.07.47:535][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.10.16-05.07.47:599][995]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.07.47:599][995]LogContentValidation: Enabled validators:
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.07.47:599][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.07.47:599][995]AssetCheck: /Game/Maps/LobbyMap 에셋 유효성 검사 중
+[2026.10.16-05.07.47:648][995]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.07.51:051][260]LogSlate: External Image Picker: DecompressImage failed
+[2026.10.16-05.08.01:270][671]LogAutomationController: Ignoring very large delta of 4.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.08.15:040][956]LogAutomationController: Ignoring very large delta of 8.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.08.36:114][401]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.16-05.08.36:116][401]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage01
+[2026.10.16-05.08.40:533][721]LogSlate: Window '프로젝트 세팅' being destroyed
+[2026.10.16-05.08.40:538][721]LogSlate: Window '프로젝트 세팅' being destroyed
+[2026.10.16-05.09.18:923][951]LogSlate: Window '부모 클래스 선택' being destroyed
+[2026.10.16-05.09.18:929][951]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.16-05.09.18:937][951]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.16-05.09.18:951][951]LogAutomationController: Ignoring very large delta of 3.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.09.18:959][952]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.16-05.09.23:902][393]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LobbyMode
+[2026.10.16-05.09.23:907][393]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.16-05.09.26:382][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_LobbyMode.BP_LobbyMode
+[2026.10.16-05.09.26:383][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.10.16-05.10.29:451][871]LogSlate: Window '부모 클래스 선택' being destroyed
+[2026.10.16-05.10.29:470][871]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.10.16-05.10.29:478][871]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.10.16-05.10.29:483][871]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.10.29:493][872]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.10.16-05.10.38:029][766]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LobbyPlayerController
+[2026.10.16-05.10.38:035][766]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.10.16-05.10.42:197][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_LobbyPlayerController.BP_LobbyPlayerController
+[2026.10.16-05.10.42:197][175]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.10.16-05.12.31:750][281]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2026.10.16-05.12.31:769][281]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.10.16-05.12.31:776][281]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.10.16-05.12.31:797][282]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.10.16-05.12.39:120][ 52]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Lobby
+[2026.10.16-05.12.39:125][ 52]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.10.16-05.12.43:745][510]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby
+[2026.10.16-05.12.43:747][510]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.10.16-05.12.43:751][510]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.10.16-05.12.53:588][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4221.224609
+[2026.10.16-05.12.53:830][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.12.53:830][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4221.458496, Update Interval: 328.030640
+[2026.10.16-05.17.12:614][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.10.16-05.17.15:507][444]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.17.15:512][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.16-05.17.15:541][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.15:542][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000570s)
+[2026.10.16-05.17.15:542][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000601s)
+[2026.10.16-05.17.15:559][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.16-05.17.15:561][444]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.17.15:563][444]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2026.10.16-05.17.15:563][444]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.10.16-05.17.15:563][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.17.15:563][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.17.15:563][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.17.15:563][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.17.15:563][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.17.15:564][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.17.15:564][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.17.15:564][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.17.15:564][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.17.15:564][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.17.15:564][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.17.15:565][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.17.15:578][444]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.17.15:578][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.17.15:578][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.17.15:578][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.17.15:578][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.10.16-05.17.15:578][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.10.16-05.17.15:580][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.10.16-05.17.15:580][444]LogInit: FAudioDevice initialized with ID 6.
+[2026.10.16-05.17.15:580][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.10.16-05.17.15:580][444]LogAudio: Display: Audio Device (ID: 6) registered with world 'LobbyMap'.
+[2026.10.16-05.17.15:580][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.16-05.17.15:583][444]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.17.15:583][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.17.15
+[2026.10.16-05.17.15:583][444]LogWorld: Bringing up level for play took: 0.000260
+[2026.10.16-05.17.15:584][444]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.10.16-05.17.15:586][444]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.17.15:586][444]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.17.15:587][444]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.17.15:588][444]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2026.10.16-05.17.15:603][445]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.17.22:492][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.22:492][217]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.22:492][217]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.17.22:492][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.22:493][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.17.22:495][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.22:511][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.22:512][217]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.16-05.17.22:512][217]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.10.16-05.17.22:514][217]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.10.16-05.17.22:518][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.16-05.17.22:562][219]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.10.16-05.17.23:973][382]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.17.23:977][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.16-05.17.23:978][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.23:978][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000509s)
+[2026.10.16-05.17.23:978][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000534s)
+[2026.10.16-05.17.23:994][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.16-05.17.23:997][382]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.17.23:998][382]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2026.10.16-05.17.23:999][382]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.17.23:999][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.17.23:999][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.17.23:999][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.17.23:999][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.17.23:999][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.17.24:001][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.17.24:010][382]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.17.24:010][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.17.24:010][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.17.24:010][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.17.24:010][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.10.16-05.17.24:010][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.10.16-05.17.24:011][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.10.16-05.17.24:011][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.10.16-05.17.24:011][382]LogInit: FAudioDevice initialized with ID 7.
+[2026.10.16-05.17.24:011][382]LogAudio: Display: Audio Device (ID: 7) registered with world 'LobbyMap'.
+[2026.10.16-05.17.24:011][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.10.16-05.17.24:015][382]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.17.24:015][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.17.24
+[2026.10.16-05.17.24:015][382]LogWorld: Bringing up level for play took: 0.000225
+[2026.10.16-05.17.24:016][382]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.10.16-05.17.24:017][382]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.17.24:017][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.17.24:018][382]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.17.24:019][382]PIE: 에디터에서 플레이 총 시작 시간 0.042초입니다.
+[2026.10.16-05.17.24:035][383]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.17.31:892][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.31:892][270]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.31:892][270]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.17.31:892][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.31:893][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.17.31:894][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.31:913][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.31:913][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.10.16-05.17.31:913][270]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.10.16-05.17.31:915][270]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.10.16-05.17.31:920][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.16-05.17.31:958][272]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.10.16-05.17.41:411][373]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.17.41:417][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.16-05.17.41:441][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.41:442][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000533s)
+[2026.10.16-05.17.41:442][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000565s)
+[2026.10.16-05.17.41:459][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.16-05.17.41:461][373]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.17.41:462][373]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2026.10.16-05.17.41:463][373]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.17.41:463][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.17.41:463][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.17.41:463][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.17.41:463][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.17.41:463][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.17.41:464][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.17.41:473][373]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.17.41:473][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.17.41:473][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.17.41:473][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.17.41:475][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.10.16-05.17.41:475][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.10.16-05.17.41:477][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.10.16-05.17.41:477][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.10.16-05.17.41:477][373]LogInit: FAudioDevice initialized with ID 8.
+[2026.10.16-05.17.41:477][373]LogAudio: Display: Audio Device (ID: 8) registered with world 'LobbyMap'.
+[2026.10.16-05.17.41:477][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.16-05.17.41:479][373]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.17.41:479][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.17.41
+[2026.10.16-05.17.41:479][373]LogWorld: Bringing up level for play took: 0.000230
+[2026.10.16-05.17.41:481][373]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.10.16-05.17.41:482][373]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.17.41:482][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.17.41:482][373]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.17.41:483][373]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2026.10.16-05.17.41:497][374]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.17.45:122][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.45:122][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.17.45:122][782]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.17.45:122][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.45:123][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.17.45:125][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.17.45:140][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.17.45:141][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.10.16-05.17.45:141][782]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.10.16-05.17.45:142][782]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.10.16-05.17.45:147][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.10.16-05.17.45:193][786]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.10.16-05.18.10:825][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.18.10:863][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_Lobby] ([2] browsable assets)...
+[2026.10.16-05.18.10:866][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby]
+[2026.10.16-05.18.10:866][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_Lobby]
+[2026.10.16-05.18.10:866][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_Lobby" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset" SILENT=true
+[2026.10.16-05.18.10:874][249]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_Lobby
+[2026.10.16-05.18.10:874][249]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_Lobby1AE02D254ACCE14DE13C33A90CA45E94.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset'
+[2026.10.16-05.18.10:881][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.521 ms (total: 620.246 ms)
+[2026.10.16-05.18.10:930][249]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.18.10:930][249]LogContentValidation: Enabled validators:
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.18.10:930][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.18.10:930][249]AssetCheck: /Game/Blueprints/Widgets/WBP_Lobby 에셋 유효성 검사 중
+[2026.10.16-05.18.10:950][249]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.18.12:457][379]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.18.12:462][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.16-05.18.12:462][379]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.18.12:462][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000521s)
+[2026.10.16-05.18.12:462][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000546s)
+[2026.10.16-05.18.12:480][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.16-05.18.12:483][379]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.18.12:484][379]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2026.10.16-05.18.12:484][379]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.18.12:484][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.18.12:484][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.18.12:484][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.18.12:484][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.18.12:484][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.18.12:486][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.18.12:495][379]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.18.12:495][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.18.12:495][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.18.12:495][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.18.12:495][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.10.16-05.18.12:495][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.10.16-05.18.12:498][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.10.16-05.18.12:498][379]LogInit: FAudioDevice initialized with ID 9.
+[2026.10.16-05.18.12:498][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.10.16-05.18.12:498][379]LogAudio: Display: Audio Device (ID: 9) registered with world 'LobbyMap'.
+[2026.10.16-05.18.12:498][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.16-05.18.12:501][379]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.18.12:501][379]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.18.12
+[2026.10.16-05.18.12:501][379]LogWorld: Bringing up level for play took: 0.000234
+[2026.10.16-05.18.12:502][379]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.10.16-05.18.12:503][379]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.18.12:503][379]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.18.12:504][379]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.18.12:505][379]PIE: 에디터에서 플레이 총 시작 시간 0.044초입니다.
+[2026.10.16-05.18.12:522][380]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.18.27:518][637]Cmd: SELECT NONE
+[2026.10.16-05.18.28:320][705]Cmd: SELECT NONE
+[2026.10.16-05.18.29:562][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.18.29:562][807]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.18.29:562][807]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.18.29:562][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.18.29:563][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.18.29:565][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.18.29:580][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.18.29:580][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.16-05.18.29:582][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.10.16-05.18.29:583][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.10.16-05.18.29:587][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.16-05.18.29:646][811]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.10.16-05.18.46:406][679]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.18.46:412][679]LogPlayLevel: [PlayLevel] Compiling BP_LobbyPlayerController before play...
+[2026.10.16-05.18.46:445][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.16-05.18.46:447][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2026.10.16-05.18.46:448][679]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.18.46:449][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000636s)
+[2026.10.16-05.18.46:449][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000671s)
+[2026.10.16-05.18.46:468][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.10.16-05.18.46:471][679]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.18.46:472][679]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2026.10.16-05.18.46:472][679]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.18.46:472][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.18.46:472][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.18.46:472][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.18.46:472][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.18.46:472][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.18.46:473][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.18.46:483][679]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.18.46:484][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.18.46:484][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.18.46:484][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.18.46:484][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.10.16-05.18.46:484][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.10.16-05.18.46:486][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.10.16-05.18.46:486][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.10.16-05.18.46:486][679]LogInit: FAudioDevice initialized with ID 10.
+[2026.10.16-05.18.46:486][679]LogAudio: Display: Audio Device (ID: 10) registered with world 'LobbyMap'.
+[2026.10.16-05.18.46:486][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.10.16-05.18.46:489][679]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.18.46:489][679]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.18.46
+[2026.10.16-05.18.46:489][679]LogWorld: Bringing up level for play took: 0.000238
+[2026.10.16-05.18.46:490][679]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.10.16-05.18.46:491][679]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.18.46:491][679]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.18.46:491][679]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.18.46:493][679]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2026.10.16-05.18.46:510][679]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.18.51:627][259]Cmd: SELECT NONE
+[2026.10.16-05.18.53:011][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.18.53:011][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.18.53:011][411]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.18.53:012][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.18.53:012][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.18.53:014][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.18.53:031][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.18.53:031][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.10.16-05.18.53:031][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.10.16-05.18.53:033][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.10.16-05.18.53:037][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.16-05.18.53:094][416]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.10.16-05.19.03:131][973]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.03:131][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.03:136][973]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.03:136][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.03:172][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.16-05.19.05:059][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4592.718262
+[2026.10.16-05.19.05:313][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.19.05:313][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4592.962402, Update Interval: 301.378815
+[2026.10.16-05.19.22:659][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.19.22:695][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_LobbyPlayerController] ([2] browsable assets)...
+[2026.10.16-05.19.22:695][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_LobbyPlayerController]
+[2026.10.16-05.19.22:703][103]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_LobbyPlayerController
+[2026.10.16-05.19.22:703][103]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyPlayerControllerDF34ECBD4D4B517D264535B177632FC6.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Player/BP_LobbyPlayerController.uasset'
+[2026.10.16-05.19.22:710][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.739 ms (total: 670.986 ms)
+[2026.10.16-05.19.22:745][103]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.19.22:745][103]LogContentValidation: Enabled validators:
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.19.22:745][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.19.22:745][103]AssetCheck: /Game/Blueprints/Player/BP_LobbyPlayerController 에셋 유효성 검사 중
+[2026.10.16-05.19.22:761][103]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.19.37:290][617]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.37:290][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.37:294][617]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.37:294][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.37:331][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.16-05.19.38:046][698]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.38:046][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.38:085][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.16-05.19.40:092][919]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.40:092][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.40:098][919]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.40:098][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.40:162][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.10.16-05.19.41:605][ 84]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.16-05.19.41:605][ 84]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.19.41:605][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.19.41:651][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.16-05.20.07:878][601]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.20.07:883][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.16-05.20.07:883][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.20.07:883][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000602s)
+[2026.10.16-05.20.07:884][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000632s)
+[2026.10.16-05.20.07:900][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.16-05.20.07:903][601]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.20.07:905][601]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2026.10.16-05.20.07:905][601]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.20.07:905][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.20.07:905][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.20.07:905][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.20.07:905][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.20.07:905][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.20.07:907][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.20.07:918][601]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.20.07:919][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.20.07:919][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.20.07:919][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.20.07:919][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.10.16-05.20.07:919][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.10.16-05.20.07:921][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.10.16-05.20.07:921][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.10.16-05.20.07:921][601]LogInit: FAudioDevice initialized with ID 11.
+[2026.10.16-05.20.07:921][601]LogAudio: Display: Audio Device (ID: 11) registered with world 'LobbyMap'.
+[2026.10.16-05.20.07:921][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.10.16-05.20.07:924][601]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.20.07:924][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.20.07
+[2026.10.16-05.20.07:925][601]LogWorld: Bringing up level for play took: 0.000278
+[2026.10.16-05.20.07:926][601]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.10.16-05.20.07:927][601]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.20.07:927][601]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.20.07:928][601]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.20.07:929][601]PIE: 에디터에서 플레이 총 시작 시간 0.046초입니다.
+[2026.10.16-05.20.07:945][602]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.20.18:271][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.20.18:271][793]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.20.18:271][793]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.20.18:271][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.20.18:272][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.20.18:274][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.20.18:291][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.20.18:291][793]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.10.16-05.20.18:291][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.10.16-05.20.18:293][793]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.10.16-05.20.18:297][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.16-05.20.18:333][796]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.10.16-05.20.26:077][677]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby
+[2026.10.16-05.20.26:077][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.10.16-05.20.26:081][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.10.16-05.20.42:677][567]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameplayMode.BP_GameplayMode
+[2026.10.16-05.20.42:678][567]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.10.16-05.20.46:703][995]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.20.46:704][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.20.46:763][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.16-05.20.50:047][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_LobbyMode.BP_LobbyMode
+[2026.10.16-05.20.50:047][330]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.10.16-05.20.58:811][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerController.BP_PlayerController
+[2026.10.16-05.20.58:811][248]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.10.16-05.21.20:430][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.21.20:480][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_LobbyPlayerController] ([2] browsable assets)...
+[2026.10.16-05.21.20:480][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_LobbyPlayerController]
+[2026.10.16-05.21.20:488][551]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_LobbyPlayerController
+[2026.10.16-05.21.20:488][551]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyPlayerControllerAE42C52B456C83C1A93155A5789EB5AC.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Player/BP_LobbyPlayerController.uasset'
+[2026.10.16-05.21.20:496][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.945 ms (total: 736.931 ms)
+[2026.10.16-05.21.20:529][551]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.21.20:529][551]LogContentValidation: Enabled validators:
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.21.20:529][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.21.20:529][551]AssetCheck: /Game/Blueprints/Player/BP_LobbyPlayerController 에셋 유효성 검사 중
+[2026.10.16-05.21.21:668][682]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.21.21:673][682]LogPlayLevel: [PlayLevel] Compiling BP_LobbyPlayerController before play...
+[2026.10.16-05.21.21:736][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.10.16-05.21.21:739][682]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2026.10.16-05.21.21:739][682]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.21.21:740][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000627s)
+[2026.10.16-05.21.21:740][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000653s)
+[2026.10.16-05.21.21:757][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.10.16-05.21.21:758][682]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.21.21:760][682]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2026.10.16-05.21.21:761][682]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.21.21:761][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.21.21:761][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.21.21:761][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.21.21:761][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.21.21:761][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.21.21:762][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.21.21:772][682]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.21.21:772][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.21.21:772][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.21.21:772][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.21.21:772][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.10.16-05.21.21:773][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.10.16-05.21.21:774][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.10.16-05.21.21:774][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.10.16-05.21.21:774][682]LogInit: FAudioDevice initialized with ID 12.
+[2026.10.16-05.21.21:774][682]LogAudio: Display: Audio Device (ID: 12) registered with world 'LobbyMap'.
+[2026.10.16-05.21.21:774][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.10.16-05.21.21:777][682]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.21.21:777][682]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.21.21
+[2026.10.16-05.21.21:777][682]LogWorld: Bringing up level for play took: 0.000245
+[2026.10.16-05.21.21:779][682]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.10.16-05.21.21:780][682]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.21.21:780][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.21.21:780][682]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.21.21:782][682]PIE: 에디터에서 플레이 총 시작 시간 0.11초입니다.
+[2026.10.16-05.21.21:799][682]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.21.23:101][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.21.23:101][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.21.23:101][828]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.21.23:101][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.21.23:102][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.21.23:104][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.21.23:117][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.21.23:117][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.10.16-05.21.23:118][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.10.16-05.21.23:120][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.10.16-05.21.23:124][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.16-05.21.23:168][832]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.10.16-05.21.48:095][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.16-05.21.48:103][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LobbyMap_Auto5
+[2026.10.16-05.21.48:103][745]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/LobbyMap_Auto549F29A914A3F8D713E7F5591E6352F80.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Maps/LobbyMap_Auto5.umap'
+[2026.10.16-05.21.48:104][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LobbyMap' took 0.025
+[2026.10.16-05.21.48:104][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2026.10.16-05.21.48:104][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyMode] ([2] browsable assets)...
+[2026.10.16-05.21.48:104][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyMode]
+[2026.10.16-05.21.48:110][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_LobbyMode_Auto5
+[2026.10.16-05.21.48:110][745]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyMode_Auto5FD7D0A3244F7DE472DB7C29610A5FD03.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/BP_LobbyMode_Auto5.uasset'
+[2026.10.16-05.21.48:110][745]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.10.16-05.25.02:635][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4950.151855
+[2026.10.16-05.25.02:905][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.25.02:905][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4950.412598, Update Interval: 339.901733
+[2026.10.16-05.27.48:025][745]LogSlate: Took 0.006488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.10.16-05.31.31:695][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5339.181152
+[2026.10.16-05.31.31:956][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.31.31:956][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5339.424316, Update Interval: 331.905273
+[2026.10.16-05.32.57:216][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.10.16-05.32.57:218][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LobbyMap' took 0.023
+[2026.10.16-05.32.57:218][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_LobbyPlayerController] ([2] browsable assets)...
+[2026.10.16-05.32.57:218][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_LobbyPlayerController]
+[2026.10.16-05.32.57:225][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_LobbyPlayerController_Auto6
+[2026.10.16-05.32.57:225][850]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyPlayerController_Auto6CE55F94141E88511CF1D3BA7240B005A.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/Player/BP_LobbyPlayerController_Auto6.uasset'
+[2026.10.16-05.32.57:226][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_Lobby] ([2] browsable assets)...
+[2026.10.16-05.32.57:228][850]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby]
+[2026.10.16-05.32.57:228][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_Lobby]
+[2026.10.16-05.32.57:234][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_Lobby_Auto6
+[2026.10.16-05.32.57:234][850]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_Lobby_Auto6F3DC9E2E4028F4D8A535EDA70BEC60D3.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/Widgets/WBP_Lobby_Auto6.uasset'
+[2026.10.16-05.32.57:235][850]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.10.16-05.32.59:360][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.16-05.33.10:112][381]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2026.10.16-05.33.10:148][381]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.10.16-05.33.10:157][381]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.10.16-05.33.10:178][382]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.10.16-05.33.19:350][912]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_LoobyStageButton
+[2026.10.16-05.33.19:354][912]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.10.16-05.33.20:964][996]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_LoobyStageButton.WBP_LoobyStageButton
+[2026.10.16-05.33.20:964][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.10.16-05.33.20:968][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.10.16-05.34.44:239][968]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.34.44:239][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.34.44:302][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.10.16-05.35.10:890][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.10.16-05.35.11:440][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.35.11:492][569]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_LoobyStageButton] ([2] browsable assets)...
+[2026.10.16-05.35.11:494][569]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_LoobyStageButton.WBP_LoobyStageButton]
+[2026.10.16-05.35.11:494][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_LoobyStageButton]
+[2026.10.16-05.35.11:501][569]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_LoobyStageButton
+[2026.10.16-05.35.11:501][569]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_LoobyStageButton44D3A8944FBC2CBBE323619B5FD3BD74.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_LoobyStageButton.uasset'
+[2026.10.16-05.35.11:509][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.352 ms (total: 805.284 ms)
+[2026.10.16-05.35.11:557][569]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.35.11:557][569]LogContentValidation: Enabled validators:
+[2026.10.16-05.35.11:557][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.35.11:557][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.35.11:557][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.35.11:558][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.35.11:558][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.35.11:558][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.35.11:558][569]AssetCheck: /Game/Blueprints/Widgets/WBP_LoobyStageButton 에셋 유효성 검사 중
+[2026.10.16-05.35.11:581][569]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.35.52:767][101]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.35.52:994][103]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.35.53:195][105]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.35.53:884][137]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.35.54:587][174]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.35.55:140][202]LogEditorTransaction: Undo 위젯 이동
+[2026.10.16-05.37.39:929][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5707.418945
+[2026.10.16-05.37.40:186][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.37.40:186][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5707.666016, Update Interval: 307.013153
+[2026.10.16-05.37.55:037][845]LogSlate: Window 'WBP_Lobby' being destroyed
+[2026.10.16-05.37.55:043][845]LogSlate: Window 'WBP_Lobby' being destroyed
+[2026.10.16-05.37.55:054][845]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.37.55:054][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.37.55:059][845]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.37.55:059][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.37.55:095][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.16-05.40.24:794][949]LogEditorTransaction: Undo 노드 추가
+[2026.10.16-05.41.01:153][898]LogEditorTransaction: Undo 노드 이동
+[2026.10.16-05.41.01:572][908]LogEditorTransaction: Undo 노드 추가
+[2026.10.16-05.41.01:617][909]LogEditorTransaction: Undo 노드 추가
+[2026.10.16-05.41.55:658][958]LogEditorTransaction: Undo 노드 이동
+[2026.10.16-05.42.23:825][192]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.42.23:832][192]LogPlayLevel: [PlayLevel] Compiling BP_LobbyPlayerController before play...
+[2026.10.16-05.42.23:834][192]LogPlayLevel: [PlayLevel]   Compiling WBP_Lobby as a dependent...
+[2026.10.16-05.42.23:834][192]LogPlayLevel: [PlayLevel]   Compiling WBP_LoobyStageButton as a dependent...
+[2026.10.16-05.42.23:936][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.10.16-05.42.23:939][192]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (3 blueprints)
+[2026.10.16-05.42.23:939][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.42.23:940][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000685s)
+[2026.10.16-05.42.23:940][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000715s)
+[2026.10.16-05.42.23:958][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.10.16-05.42.23:959][192]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.42.23:960][192]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2026.10.16-05.42.23:961][192]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.42.23:961][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.42.23:961][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.42.23:961][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.42.23:961][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.42.23:961][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.42.23:963][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.42.23:973][192]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.42.23:973][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.42.23:973][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.42.23:973][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.42.23:975][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.10.16-05.42.23:975][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.10.16-05.42.23:976][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.10.16-05.42.23:976][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.10.16-05.42.23:976][192]LogInit: FAudioDevice initialized with ID 13.
+[2026.10.16-05.42.23:976][192]LogAudio: Display: Audio Device (ID: 13) registered with world 'LobbyMap'.
+[2026.10.16-05.42.23:976][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.16-05.42.23:979][192]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.42.23:979][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.42.23
+[2026.10.16-05.42.23:980][192]LogWorld: Bringing up level for play took: 0.000260
+[2026.10.16-05.42.23:981][192]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.10.16-05.42.23:982][192]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.42.23:982][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.42.23:984][192]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.42.23:985][192]PIE: 에디터에서 플레이 총 시작 시간 0.155초입니다.
+[2026.10.16-05.42.24:001][192]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.42.24:909][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.42.24:909][292]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.42.24:909][292]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.42.24:909][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.42.24:910][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.42.24:911][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.42.24:933][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.42.24:933][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.16-05.42.24:933][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.10.16-05.42.24:935][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.10.16-05.42.24:940][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.16-05.42.24:990][296]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.10.16-05.42.35:420][399]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby
+[2026.10.16-05.42.35:420][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.10.16-05.42.35:424][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.10.16-05.43.35:073][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6062.594727
+[2026.10.16-05.43.35:352][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.43.35:352][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6062.860352, Update Interval: 320.308838
+[2026.10.16-05.43.35:679][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.16-05.43.48:065][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.43.48:105][227]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_Lobby] ([2] browsable assets)...
+[2026.10.16-05.43.48:108][227]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby]
+[2026.10.16-05.43.48:108][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_Lobby]
+[2026.10.16-05.43.48:108][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_Lobby" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset" SILENT=true
+[2026.10.16-05.43.48:116][227]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_Lobby
+[2026.10.16-05.43.48:116][227]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_LobbyCD3390CC4BA9786F869791AD1571C202.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset'
+[2026.10.16-05.43.48:122][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.292 ms (total: 862.576 ms)
+[2026.10.16-05.43.48:156][227]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.16-05.43.48:156][227]LogContentValidation: Enabled validators:
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.43.48:156][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.43.48:157][227]AssetCheck: /Game/Blueprints/Widgets/WBP_Lobby 에셋 유효성 검사 중
+[2026.10.16-05.44.28:050][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.16-05.44.47:333][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.16-05.46.24:482][252]LogEditorTransaction: Undo 아규먼트 핀 추가
+[2026.10.16-05.47.04:919][260]LogVSAccessor: Warning: Couldn't goto column number '1' of line '185' in 'C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/KismetTextLibrary.cpp'.
+[2026.10.16-05.47.04:951][260]LogAutomationController: Ignoring very large delta of 3.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.47.31:125][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.10.16-05.47.31:134][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LobbyMap_Auto7
+[2026.10.16-05.47.31:134][175]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/LobbyMap_Auto7FBB224314BB4E014E33621A3E7A780F1.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Maps/LobbyMap_Auto7.umap'
+[2026.10.16-05.47.31:135][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LobbyMap' took 0.062
+[2026.10.16-05.47.31:135][175]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2026.10.16-05.47.31:135][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyMode] ([2] browsable assets)...
+[2026.10.16-05.47.31:135][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyMode]
+[2026.10.16-05.47.31:140][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_LobbyMode_Auto7
+[2026.10.16-05.47.31:140][175]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyMode_Auto705E20B8C4135658A275C5383F06C29B6.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/BP_LobbyMode_Auto7.uasset'
+[2026.10.16-05.47.31:142][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_LobbyPlayerController] ([2] browsable assets)...
+[2026.10.16-05.47.31:142][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_LobbyPlayerController]
+[2026.10.16-05.47.31:148][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_LobbyPlayerController_Auto7
+[2026.10.16-05.47.31:148][175]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyPlayerController_Auto71A6308514C7E8B6163A402960CC4F036.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/Player/BP_LobbyPlayerController_Auto7.uasset'
+[2026.10.16-05.47.31:149][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_Lobby] ([2] browsable assets)...
+[2026.10.16-05.47.31:164][175]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby]
+[2026.10.16-05.47.31:164][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_Lobby]
+[2026.10.16-05.47.31:171][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_Lobby_Auto7
+[2026.10.16-05.47.31:171][175]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_Lobby_Auto7E7CFDDB641A386E45718DAAC0A78ADF5.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/Widgets/WBP_Lobby_Auto7.uasset'
+[2026.10.16-05.47.31:171][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_LoobyStageButton] ([2] browsable assets)...
+[2026.10.16-05.47.31:173][175]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_LoobyStageButton.WBP_LoobyStageButton]
+[2026.10.16-05.47.31:173][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_LoobyStageButton]
+[2026.10.16-05.47.31:182][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WBP_LoobyStageButton_Auto7
+[2026.10.16-05.47.31:182][175]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_LoobyStageButton_Auto7EADF782947B17FF37466A5B9ED2978F0.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/Autosaves/Game/Blueprints/Widgets/WBP_LoobyStageButton_Auto7.uasset'
+[2026.10.16-05.47.31:182][175]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.10.16-05.49.34:706][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6422.261719
+[2026.10.16-05.49.34:962][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.16-05.49.34:962][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6422.509277, Update Interval: 358.890350
+[2026.10.16-05.49.37:572][610]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.49.37:582][610]LogPlayLevel: [PlayLevel] Compiling WBP_Lobby before play...
+[2026.10.16-05.49.37:582][610]LogPlayLevel: [PlayLevel]   Compiling WBP_LoobyStageButton as a dependent...
+[2026.10.16-05.49.37:679][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.16-05.49.37:681][610]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (2 blueprints)
+[2026.10.16-05.49.37:681][610]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.49.37:682][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000605s)
+[2026.10.16-05.49.37:682][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000634s)
+[2026.10.16-05.49.37:699][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.16-05.49.37:700][610]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.49.37:702][610]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2026.10.16-05.49.37:703][610]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.49.37:703][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.49.37:703][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.49.37:703][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.49.37:703][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.49.37:703][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.49.37:705][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.49.37:716][610]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.49.37:716][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.49.37:716][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.49.37:716][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.49.37:717][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.10.16-05.49.37:717][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.10.16-05.49.37:717][610]LogInit: FAudioDevice initialized with ID 14.
+[2026.10.16-05.49.37:717][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.10.16-05.49.37:717][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.10.16-05.49.37:717][610]LogAudio: Display: Audio Device (ID: 14) registered with world 'LobbyMap'.
+[2026.10.16-05.49.37:719][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.16-05.49.37:722][610]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.49.37:722][610]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.49.37
+[2026.10.16-05.49.37:722][610]LogWorld: Bringing up level for play took: 0.000342
+[2026.10.16-05.49.37:723][610]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.10.16-05.49.37:725][610]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.49.37:725][610]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.49.37:726][610]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.49.37:727][610]PIE: 에디터에서 플레이 총 시작 시간 0.15초입니다.
+[2026.10.16-05.49.37:746][610]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.49.39:359][792]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Stage/Stage01"
+[2026.10.16-05.49.39:359][792]LogNet: Browse: /Game/Maps/Stage/Stage01
+[2026.10.16-05.49.39:359][792]LogLoad: LoadMap: /Game/Maps/Stage/Stage01
+[2026.10.16-05.49.39:359][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.49.39:359][792]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.49.39:359][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.39:400][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.49.39:402][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.16-05.49.39:405][792]LogPlayLevel: Creating play world package: /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.39:406][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2026.10.16-05.49.39:406][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage/Stage01.Stage01 to /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 (0.002276s)
+[2026.10.16-05.49.39:406][792]LogAudio: Display: Audio Device (ID: 14) registered with world 'Stage01'.
+[2026.10.16-05.49.39:406][792]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage01
+[2026.10.16-05.49.39:407][792]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2026.10.16-05.49.39:408][792]LogLoad: Game class is 'BP_GameplayMode_C'
+[2026.10.16-05.49.39:408][792]LogWorld: Bringing World /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2026.10.16-14.49.39
+[2026.10.16-05.49.39:408][792]LogWorld: Bringing up level for play took: 0.000637
+[2026.10.16-05.49.39:410][792]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.16-05.49.39:410][792]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.16-05.49.39:410][792]LogLoad: Took 0.051979 seconds to LoadMap(/Game/Maps/Stage/UEDPIE_0_Stage01)
+[2026.10.16-05.49.39:410][792]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.39:414][792]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.49.43:397][216]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.49.43:397][216]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.10.16-05.49.45:254][408]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Stage/Stage02"
+[2026.10.16-05.49.45:254][408]LogNet: Browse: /Game/Maps/Stage/Stage02
+[2026.10.16-05.49.45:254][408]LogLoad: LoadMap: /Game/Maps/Stage/Stage02
+[2026.10.16-05.49.45:254][408]LogWorld: BeginTearingDown for /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.45:255][408]LogWorld: UWorld::CleanupWorld for Stage01, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.49.45:255][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.45:293][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.49.45:294][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.16-05.49.45:297][408]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.16-05.49.45:299][408]LogAudio: Display: Audio Device (ID: 14) registered with world 'Stage02'.
+[2026.10.16-05.49.45:299][408]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage02
+[2026.10.16-05.49.45:301][408]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2026.10.16-05.49.45:301][408]LogLoad: Game class is 'BP_GameplayMode_C'
+[2026.10.16-05.49.45:303][408]LogWorld: Bringing World /Game/Maps/Stage/UEDPIE_0_Stage02.Stage02 up for play (max tick rate 0) at 2026.10.16-14.49.45
+[2026.10.16-05.49.45:303][408]LogWorld: Bringing up level for play took: 0.001671
+[2026.10.16-05.49.45:304][408]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.16-05.49.45:304][408]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.16-05.49.45:305][408]LogLoad: Took 0.050318 seconds to LoadMap(/Game/Maps/Stage/Stage02)
+[2026.10.16-05.49.45:305][408]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Stage/Stage02
+[2026.10.16-05.49.45:308][408]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.49.48:101][702]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.49.48:101][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.10.16-05.49.49:261][823]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.10.16-05.49.49:262][823]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.10.16-05.49.49:262][823]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/LobbyMap"
+[2026.10.16-05.49.49:262][823]LogNet: Browse: /Game/Maps/LobbyMap
+[2026.10.16-05.49.49:262][823]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "잘못된 URL: /Game/Maps/LobbyMap"
+[2026.10.16-05.49.49:262][823]LogNet: Warning: Travel Failure: [InvalidURL]: 잘못된 URL: /Game/Maps/LobbyMap
+[2026.10.16-05.49.49:262][823]LogNet: TravelFailure: InvalidURL, Reason for Failure: '잘못된 URL: /Game/Maps/LobbyMap'
+[2026.10.16-05.49.49:262][823]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "잘못된 URL: /Game/Maps/LobbyMap"
+[2026.10.16-05.49.49:262][823]LogNet: Warning: Travel Failure: [ClientTravelFailure]: 잘못된 URL: /Game/Maps/LobbyMap
+[2026.10.16-05.49.49:262][823]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: '잘못된 URL: /Game/Maps/LobbyMap'
+[2026.10.16-05.49.49:272][824]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/LobbyMap?closed"
+[2026.10.16-05.49.49:272][824]LogNet: Browse: /Game/Maps/LobbyMap?closed
+[2026.10.16-05.49.49:274][824]LogNet: Connection failed; returning to Entry
+[2026.10.16-05.49.49:274][824]LogLoad: LoadMap: /Game/Maps/LobbyMap?closed
+[2026.10.16-05.49.49:274][824]LogWorld: BeginTearingDown for /Game/Maps/Stage/UEDPIE_0_Stage02
+[2026.10.16-05.49.49:275][824]LogWorld: UWorld::CleanupWorld for Stage02, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.49.49:276][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.49:321][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.49.49:323][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.16-05.49.49:325][824]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.49.49:326][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000628s)
+[2026.10.16-05.49.49:326][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000666s)
+[2026.10.16-05.49.49:326][824]LogAudio: Display: Audio Device (ID: 14) registered with world 'LobbyMap'.
+[2026.10.16-05.49.49:326][824]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.49.49:327][824]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2026.10.16-05.49.49:327][824]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.49.49:327][824]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.49.49
+[2026.10.16-05.49.49:327][824]LogWorld: Bringing up level for play took: 0.000204
+[2026.10.16-05.49.49:327][824]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.10.16-05.49.49:328][824]LogLoad: Took 0.054359 seconds to LoadMap(/Game/Maps/UEDPIE_0_LobbyMap)
+[2026.10.16-05.49.49:328][824]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.49.49:343][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.16-05.49.49:346][824]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.49.54:785][455]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Stage/Stage01"
+[2026.10.16-05.49.54:785][455]LogNet: Browse: /Game/Maps/Stage/Stage01
+[2026.10.16-05.49.54:785][455]LogLoad: LoadMap: /Game/Maps/Stage/Stage01
+[2026.10.16-05.49.54:785][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.49.54:786][455]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.49.54:786][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.54:823][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.49.54:825][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.16-05.49.54:826][455]LogPlayLevel: Creating play world package: /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.54:829][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2026.10.16-05.49.54:829][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage/Stage01.Stage01 to /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 (0.002152s)
+[2026.10.16-05.49.54:829][455]LogAudio: Display: Audio Device (ID: 14) registered with world 'Stage01'.
+[2026.10.16-05.49.54:829][455]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage01
+[2026.10.16-05.49.54:830][455]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2026.10.16-05.49.54:830][455]LogLoad: Game class is 'BP_GameplayMode_C'
+[2026.10.16-05.49.54:830][455]LogWorld: Bringing World /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2026.10.16-14.49.54
+[2026.10.16-05.49.54:830][455]LogWorld: Bringing up level for play took: 0.000578
+[2026.10.16-05.49.54:832][455]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.16-05.49.54:832][455]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.16-05.49.54:832][455]LogLoad: Took 0.047524 seconds to LoadMap(/Game/Maps/Stage/UEDPIE_0_Stage01)
+[2026.10.16-05.49.54:832][455]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.54:837][455]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.49.57:437][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.49.57:437][726]LogWorld: BeginTearingDown for /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.49.57:437][726]LogWorld: UWorld::CleanupWorld for Stage01, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.49.57:437][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.57:439][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.49.57:454][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.49.57:459][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.49.57:459][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.16-05.49.57:459][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.10.16-05.49.57:461][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.10.16-05.49.57:467][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.16-05.49.57:515][730]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.10.16-05.51.56:052][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_StageClear.WBP_StageClear
+[2026.10.16-05.51.56:052][163]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.10.16-05.51.56:055][163]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.10.16-05.52.28:081][607]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.10.16-05.52.28:093][607]LogPlayLevel: [PlayLevel] Compiling WBP_StageClear before play...
+[2026.10.16-05.52.28:193][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.10.16-05.52.28:195][607]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2026.10.16-05.52.28:195][607]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.52.28:196][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000604s)
+[2026.10.16-05.52.28:196][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000628s)
+[2026.10.16-05.52.28:212][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.16-05.52.28:213][607]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.52.28:214][607]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2026.10.16-05.52.28:215][607]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.16-05.52.28:215][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.16-05.52.28:215][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.16-05.52.28:215][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.16-05.52.28:215][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.16-05.52.28:215][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.16-05.52.28:217][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.10.16-05.52.28:227][607]LogAudioMixer: Display: Using Audio Hardware Device DELL S2721HN(NVIDIA High Definition Audio)
+[2026.10.16-05.52.28:227][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.16-05.52.28:227][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.16-05.52.28:227][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.16-05.52.28:227][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.10.16-05.52.28:227][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.10.16-05.52.28:229][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.10.16-05.52.28:229][607]LogInit: FAudioDevice initialized with ID 15.
+[2026.10.16-05.52.28:229][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.10.16-05.52.28:229][607]LogAudio: Display: Audio Device (ID: 15) registered with world 'LobbyMap'.
+[2026.10.16-05.52.28:229][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.16-05.52.28:232][607]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.52.28:232][607]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.52.28
+[2026.10.16-05.52.28:232][607]LogWorld: Bringing up level for play took: 0.000235
+[2026.10.16-05.52.28:234][607]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.10.16-05.52.28:235][607]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.52.28:235][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.16-05.52.28:237][607]PIE: 서버가 로그인했습니다.
+[2026.10.16-05.52.28:238][607]PIE: 에디터에서 플레이 총 시작 시간 0.153초입니다.
+[2026.10.16-05.52.28:253][607]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.52.29:201][714]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Stage/Stage01"
+[2026.10.16-05.52.29:201][714]LogNet: Browse: /Game/Maps/Stage/Stage01
+[2026.10.16-05.52.29:201][714]LogLoad: LoadMap: /Game/Maps/Stage/Stage01
+[2026.10.16-05.52.29:201][714]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.52.29:202][714]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.52.29:202][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.52.29:255][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.52.29:256][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.16-05.52.29:260][714]LogPlayLevel: Creating play world package: /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.52.29:262][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002099s)
+[2026.10.16-05.52.29:262][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage/Stage01.Stage01 to /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 (0.002138s)
+[2026.10.16-05.52.29:262][714]LogAudio: Display: Audio Device (ID: 15) registered with world 'Stage01'.
+[2026.10.16-05.52.29:262][714]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage01
+[2026.10.16-05.52.29:264][714]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2026.10.16-05.52.29:264][714]LogLoad: Game class is 'BP_GameplayMode_C'
+[2026.10.16-05.52.29:264][714]LogWorld: Bringing World /Game/Maps/Stage/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2026.10.16-14.52.29
+[2026.10.16-05.52.29:264][714]LogWorld: Bringing up level for play took: 0.000612
+[2026.10.16-05.52.29:266][714]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.16-05.52.29:266][714]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.16-05.52.29:266][714]LogLoad: Took 0.064830 seconds to LoadMap(/Game/Maps/Stage/UEDPIE_0_Stage01)
+[2026.10.16-05.52.29:266][714]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.52.29:272][714]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.52.32:749][102]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.16-05.52.32:749][102]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.10.16-05.52.34:196][262]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/LobbyMap"
+[2026.10.16-05.52.34:196][262]LogNet: Browse: /Game/Maps/LobbyMap
+[2026.10.16-05.52.34:196][262]LogLoad: LoadMap: /Game/Maps/LobbyMap
+[2026.10.16-05.52.34:196][262]LogWorld: BeginTearingDown for /Game/Maps/Stage/UEDPIE_0_Stage01
+[2026.10.16-05.52.34:197][262]LogWorld: UWorld::CleanupWorld for Stage01, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.52.34:197][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.52.34:242][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.16-05.52.34:243][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.16-05.52.34:245][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.52.34:247][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000554s)
+[2026.10.16-05.52.34:247][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LobbyMap.LobbyMap to /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap (0.000593s)
+[2026.10.16-05.52.34:247][262]LogAudio: Display: Audio Device (ID: 15) registered with world 'LobbyMap'.
+[2026.10.16-05.52.34:247][262]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMap
+[2026.10.16-05.52.34:248][262]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2026.10.16-05.52.34:248][262]LogLoad: Game class is 'BP_LobbyMode_C'
+[2026.10.16-05.52.34:248][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2026.10.16-14.52.34
+[2026.10.16-05.52.34:248][262]LogWorld: Bringing up level for play took: 0.000206
+[2026.10.16-05.52.34:248][262]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.10.16-05.52.34:249][262]LogLoad: Took 0.053519 seconds to LoadMap(/Game/Maps/UEDPIE_0_LobbyMap)
+[2026.10.16-05.52.34:249][262]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.52.34:251][262]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.16-05.52.36:676][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.52.36:676][544]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LobbyMap
+[2026.10.16-05.52.36:676][544]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.52.36:676][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.52.36:677][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.16-05.52.36:680][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.52.36:695][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.16-05.52.36:695][544]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.16-05.52.36:695][544]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.10.16-05.52.36:698][544]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.10.16-05.52.36:702][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.16-05.52.36:755][549]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.10.16-05.55.07:786][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.16-05.55.09:382][122]LogSlate: Window '콘텐츠 저장' being destroyed
+[2026.10.16-05.55.09:387][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.16-05.55.09:419][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LobbyMap" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/LobbyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.16-05.55.09:458][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.16-05.55.09:467][122]LogSavePackage: Moving output files for package: /Game/Maps/LobbyMap
+[2026.10.16-05.55.09:467][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/LobbyMapCC1DE9BD49AC30E1CC1344BC96FA230F.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Maps/LobbyMap.umap'
+[2026.10.16-05.55.09:473][122]LogFileHelpers: Saving map 'LobbyMap' took 0.056
+[2026.10.16-05.55.09:475][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LobbyMode] ([2] browsable assets)...
+[2026.10.16-05.55.09:475][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LobbyMode]
+[2026.10.16-05.55.09:475][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LobbyMode" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/BP_LobbyMode.uasset" SILENT=true
+[2026.10.16-05.55.09:479][122]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LobbyMode
+[2026.10.16-05.55.09:479][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyMode633A324A4B4B7CFCB6C755B6AE687406.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/BP_LobbyMode.uasset'
+[2026.10.16-05.55.09:482][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_LobbyPlayerController] ([2] browsable assets)...
+[2026.10.16-05.55.09:482][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_LobbyPlayerController]
+[2026.10.16-05.55.09:489][122]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_LobbyPlayerController
+[2026.10.16-05.55.09:489][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/BP_LobbyPlayerController567350D145481415F9FF639D54FD2890.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Player/BP_LobbyPlayerController.uasset'
+[2026.10.16-05.55.09:490][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_Lobby] ([2] browsable assets)...
+[2026.10.16-05.55.09:492][122]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_Lobby.WBP_Lobby]
+[2026.10.16-05.55.09:492][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_Lobby]
+[2026.10.16-05.55.09:492][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_Lobby" FILE="../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset" SILENT=true
+[2026.10.16-05.55.09:500][122]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_Lobby
+[2026.10.16-05.55.09:500][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_Lobby40D3A64C47262298B555719912D1A11E.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_Lobby.uasset'
+[2026.10.16-05.55.09:501][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_LoobyStageButton] ([2] browsable assets)...
+[2026.10.16-05.55.09:502][122]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_LoobyStageButton.WBP_LoobyStageButton]
+[2026.10.16-05.55.09:502][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_LoobyStageButton]
+[2026.10.16-05.55.09:511][122]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_LoobyStageButton
+[2026.10.16-05.55.09:511][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_LoobyStageButton8225E9B949945E7DE37202AC8071E05D.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_LoobyStageButton.uasset'
+[2026.10.16-05.55.09:513][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WBP_StageClear] ([2] browsable assets)...
+[2026.10.16-05.55.09:515][122]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WBP_StageClear.WBP_StageClear]
+[2026.10.16-05.55.09:515][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_StageClear]
+[2026.10.16-05.55.09:523][122]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StageClear
+[2026.10.16-05.55.09:523][122]LogSavePackage: Moving '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/WBP_StageClear5737EC764E3DBF968981DD8FE232D2E9.tmp' to '../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Content/Blueprints/Widgets/WBP_StageClear.uasset'
+[2026.10.16-05.55.09:530][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.233 ms (total: 1.00 sec)
+[2026.10.16-05.55.09:566][122]LogStall: Shutdown...
+[2026.10.16-05.55.09:566][122]LogStall: Shutdown complete.
+[2026.10.16-05.55.09:609][122]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:611][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:678][122]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:678][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:682][122]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:682][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:707][122]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2026.10.16-05.55.09:719][122]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.16-05.55.09:719][122]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:719][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:786][122]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:786][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:792][122]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:792][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:822][122]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.16-05.55.09:822][122]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:822][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:883][122]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.10.16-05.55.09:883][122]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:883][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:942][122]LogSlate: Window 'WBP_LoobyStageButton' being destroyed
+[2026.10.16-05.55.09:957][122]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:957][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.09:962][122]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.09:962][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:017][122]LogSlate: Window 'platformer_game_pc - 언리얼 에디터' being destroyed
+[2026.10.16-05.55.10:215][122]LogContentValidation: Display: Starting to validate 6 assets
+[2026.10.16-05.55.10:215][122]LogContentValidation: Enabled validators:
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.16-05.55.10:215][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.16-05.55.10:216][122]AssetCheck: /Game/Maps/LobbyMap 에셋 유효성 검사 중
+[2026.10.16-05.55.10:216][122]AssetCheck: /Game/Blueprints/BP_LobbyMode 에셋 유효성 검사 중
+[2026.10.16-05.55.10:216][122]AssetCheck: /Game/Blueprints/Player/BP_LobbyPlayerController 에셋 유효성 검사 중
+[2026.10.16-05.55.10:216][122]AssetCheck: /Game/Blueprints/Widgets/WBP_Lobby 에셋 유효성 검사 중
+[2026.10.16-05.55.10:216][122]AssetCheck: /Game/Blueprints/Widgets/WBP_LoobyStageButton 에셋 유효성 검사 중
+[2026.10.16-05.55.10:217][122]AssetCheck: /Game/Blueprints/Widgets/WBP_StageClear 에셋 유효성 검사 중
+[2026.10.16-05.55.10:273][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.10.16-05.55.10:300][122]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.10.16-05.55.10:300][122]Cmd: QUIT_EDITOR
+[2026.10.16-05.55.10:300][122]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.16-05.55.10:300][122]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/JDY/Unreal_Study/platformer_game_pc/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.16-05.55.10:304][123]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.16-05.55.10:304][123]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.16-05.55.10:304][123]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.16-05.55.10:304][123]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:305][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:305][123]LogWorld: UWorld::CleanupWorld for Stage01, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:305][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:321][123]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.10.16-05.55.10:321][123]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.16-05.55.10:321][123]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.16-05.55.10:330][123]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:330][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:332][123]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:332][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:333][123]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:333][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:335][123]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:335][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:336][123]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:337][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:338][123]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:338][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:339][123]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:339][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:340][123]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.10.16-05.55.10:340][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.16-05.55.10:342][123]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.16-05.55.10:342][123]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.10.16-05.55.10:343][123]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.16-05.55.10:566][123]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.16-05.55.10:566][123]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.16-05.55.10:566][123]LogAudio: Display: Audio Device unregistered from world 'LobbyMap'.
+[2026.10.16-05.55.10:566][123]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.16-05.55.10:566][123]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.10.16-05.55.10:568][123]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.10.16-05.55.10:575][123]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.16-05.55.10:575][123]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.16-05.55.10:576][123]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2026.10.16-05.55.10:577][123]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.16-05.55.10:578][123]LogExit: Preparing to exit.
+[2026.10.16-05.55.10:613][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.10:618][123]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.16-05.55.11:556][123]LogEditorDataStorage: Deinitializing
+[2026.10.16-05.55.11:673][123]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.16-05.55.11:686][123]LogExit: Editor shut down
+[2026.10.16-05.55.11:688][123]LogExit: Transaction tracking system shut down
+[2026.10.16-05.55.11:802][123]LogExit: Object subsystem successfully closed.
+[2026.10.16-05.55.11:810][123]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.16-05.55.11:871][123]LogMemoryProfiler: Shutdown
+[2026.10.16-05.55.11:871][123]LogNetworkingProfiler: Shutdown
+[2026.10.16-05.55.11:871][123]LoadingProfiler: Shutdown
+[2026.10.16-05.55.11:871][123]LogTimingProfiler: Shutdown
+[2026.10.16-05.55.11:873][123]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.16-05.55.11:873][123]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.16-05.55.12:146][123]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.16-05.55.12:688][123]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.16-05.55.12:697][123]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.16-05.55.12:697][123]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE96569E0-4600-3BBA-7EF8-EC8FA8DD4489%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=00acbd4a40f14cf4a6bb0ebf5cb48554%7C9a2cd404df6d4b969e06ad85b21c2353%7Cbb595246-68e3-4b9c-9e7d-babcfbbac69c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.16-05.55.12:703][123]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.16-05.55.12:703][123]RenderDocPlugin: plugin has been unloaded.
+[2026.10.16-05.55.12:707][123]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.10.16-05.55.12:707][123]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.10.16-05.55.12:707][123]LogPakFile: Destroying PakPlatformFile
+[2026.10.16-05.55.12:856][123]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.16-05.55.12:922][123]LogExit: Exiting.
+[2026.10.16-05.55.12:939][123]Log file closed, 10/16/26 14:55:12
